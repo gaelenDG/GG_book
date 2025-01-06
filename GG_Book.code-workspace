@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "241222-063907-esp32-c3-devkitm-1",
+			"path": "../../PlatformIO/Projects/241222-063907-esp32-c3-devkitm-1"
+		}
+	],
+	"settings": {}
+}
